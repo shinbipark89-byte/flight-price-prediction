@@ -22,10 +22,12 @@ Several variables originally stored as strings were cleaned and transformed into
 
 
 # Project Structure
+
+```text
 .
 ├── data/
-│   ├── raw/                 
-│   └── processed/        
+│   ├── raw/
+│   └── processed/
 ├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_preprocessing.ipynb
