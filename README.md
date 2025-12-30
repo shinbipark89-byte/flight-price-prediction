@@ -43,6 +43,7 @@ Several variables originally stored as strings were cleaned and transformed into
 │   └── figures/
 ├── requirements.txt
 └── README.md
+```
 
 
 ## Modeling Approaches
